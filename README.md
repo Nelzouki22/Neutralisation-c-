@@ -42,7 +42,8 @@ int main() {
 Notes
 The two strings will be of the same length.
 You can modify the function to suit your specific needs.
-markdown
+
+
 #include <iostream>
 #include <string>
 
